@@ -1,2 +1,3 @@
 # ESP8266
-v1.6
+LUA:
+To increase comprehensive V1.6, including the snap, scratch, etc. Use.
